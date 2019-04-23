@@ -1,0 +1,129 @@
+﻿Id,Name,Food Type Id,Name (Food Types)
+1,Baked Goods,2,Baked Goods
+2,Butter,5,Dairy
+3,Buttermilk,5,Dairy
+4,Cheddar cheese,5,Dairy
+5,Cheese,5,Dairy
+6,Cottage cheese,5,Dairy
+7,Cream cheese,5,Dairy
+8,Dairy,5,Dairy
+9,Ice cream,5,Dairy
+10,Margarine,5,Dairy
+11,Milk skim,5,Dairy
+12,Milk whole,5,Dairy
+13,Milk Evaporated and condensed skim,5,Dairy
+14,Yogurt,5,Dairy
+15,Bacon,6,Meat & Protein
+16,Beef,6,Meat & Protein
+17,Chicken,6,Meat & Protein
+18,Duck,6,Meat & Protein
+19,Eggs,6,Meat & Protein
+20,Fish,6,Meat & Protein
+21,Ground Beef,6,Meat & Protein
+22,Lamb leg,6,Meat & Protein
+23,Lobster,6,Meat & Protein
+24,Meat & Protein,6,Meat & Protein
+25,Mussels,6,Meat & Protein
+26,Pork,6,Meat & Protein
+27,Shrimp,6,Meat & Protein
+28,Tuna,6,Meat & Protein
+29,Turkey,6,Meat & Protein
+30,Veal shank,6,Meat & Protein
+31,Veal shoulder,6,Meat & Protein
+32,Non-Food,7,Non-Food
+33,Almonds,4,Non-Perishable
+34,Apple juice,4,Non-Perishable
+35,Barley,4,Non-Perishable
+36,Corn flour and meal,4,Non-Perishable
+37,Corn hominy and grits,4,Non-Perishable
+38,Corn starch,4,Non-Perishable
+39,Couscous,4,Non-Perishable
+40,Fruit,4,Non-Perishable
+41,Fruit juice,4,Non-Perishable
+42,Grapefruit juice,4,Non-Perishable
+43,Hazelnuts,4,Non-Perishable
+44,Honey,4,Non-Perishable
+45,Lemon juice,4,Non-Perishable
+46,Lime juice,4,Non-Perishable
+47,Macadamia nuts,4,Non-Perishable
+48,Mixed vegetables canned,4,Non-Perishable
+49,Mixed vegetables frozen,4,Non-Perishable
+50,Non-Perishable,4,Non-Perishable
+51,Oatmeal,4,Non-Perishable
+52,Oats,4,Non-Perishable
+53,Orange juice,4,Non-Perishable
+54,Other tree nuts,4,Non-Perishable
+55,Peanuts,4,Non-Perishable
+56,Pecans,4,Non-Perishable
+57,Pistachio nuts,4,Non-Perishable
+58,Potatoes frozen,4,Non-Perishable
+59,Raisins,4,Non-Perishable
+60,Rice,4,Non-Perishable
+61,Rye flour,4,Non-Perishable
+62,Salad and cooking oils,4,Non-Perishable
+63,Sugar,4,Non-Perishable
+64,Walnuts,4,Non-Perishable
+65,Wheat flour,4,Non-Perishable
+66,Other,8,Other
+67,Apples,1,Produce
+68,Apricots,1,Produce
+69,Artichokes,1,Produce
+70,Asparagus,1,Produce
+71,Avocados,1,Produce
+72,Bananas,1,Produce
+73,Bell peppers,1,Produce
+74,Blueberries,1,Produce
+75,Broccoli,1,Produce
+76,Brussel sprouts,1,Produce
+77,Cabbage,1,Produce
+78,Cantaloupe,1,Produce
+79,Carrots,1,Produce
+80,Cauliflower,1,Produce
+81,Celery,1,Produce
+82,Cherries,1,Produce
+83,Coconuts,1,Produce
+84,Collards,1,Produce
+85,Cranberries,1,Produce
+86,Cucumbers,1,Produce
+87,Eggplant,1,Produce
+88,Escarole & endive,1,Produce
+89,Garlic,1,Produce
+90,Grapefruit,1,Produce
+91,Grapes,1,Produce
+92,Green beans,1,Produce
+93,Head lettuce,1,Produce
+94,Honeydew,1,Produce
+95,Kale,1,Produce
+96,Kiwis,1,Produce
+97,Legumes,1,Produce
+98,Lemons,1,Produce
+99,Lima beans,1,Produce
+100,Limes,1,Produce
+101,Mandarin oranges,1,Produce
+102,Mangoes,1,Produce
+103,Mushrooms,1,Produce
+104,Mustard greens,1,Produce
+105,Okra,1,Produce
+106,Onions,1,Produce
+107,Oranges,1,Produce
+108,Papayas,1,Produce
+109,Peaches,1,Produce
+110,Pears,1,Produce
+111,Pineapples,1,Produce
+112,Plums,1,Produce
+113,Potatoes,1,Produce
+114,Produce,1,Produce
+115,Pumpkin,1,Produce
+116,Radishes,1,Produce
+117,Raspberries,1,Produce
+118,Romaine and leaf lettuce,1,Produce
+119,Spinach,1,Produce
+120,Squash,1,Produce
+121,Strawberries,1,Produce
+122,Sweet corn,1,Produce
+123,Sweet potatoes,1,Produce
+124,Tomatoes,1,Produce
+125,Turnip greens,1,Produce
+126,Watermelon,1,Produce
+127,Prepared - Trays/Multi-Serving,3,Prepared - Individually Packaged
+128,Prepared - Individually Packaged,3,Prepared - Individually Packaged
